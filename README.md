@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy José Santana</h1>
+<h1 align="center">Hola, soy José Santana</h1>
 
 <h3 align="center">Full-Stack Developer | Investigador de Machine Learning</h3>
 
@@ -8,12 +8,13 @@
 
 ---
 
-* 🔭 **Actualmente trabajando:** Como Desarrollador Full-Stack en Tecnocom, construyendo aplicaciones robustas y escalables.
-* 🌱 **Actualmente investigando:** Computer Vision y Machine Learning (Python/Data Science) para mi tesis de maestría enfocada en rehabilitación médica.
-* ☁️ **Mis intereses principales:** El desarrollo web moderno y la aplicación de Inteligencia Artificial para el impacto en la salud.
-* 💬 **Pregúntame sobre:** Desarrollo Full-Stack, Python, y estructuración de proyectos de software.
-* 📫 **Cómo contactarme:** dvlsantanaes@gmail.com
-* ⚡ **Dato curioso:** Cuando no estoy programando, me encuentras en el gym, jugando ARC Raiders o Dead by Daylight, o dando el rol por Mazatlán.
+* <img src="https://cdn.simpleicons.org/github/e6edf3" height="16" valign="middle" /> **Actualmente trabajando:** Como Desarrollador Full-Stack en Tecnocom, construyendo aplicaciones robustas y escalables.
+* <img src="https://cdn.simpleicons.org/opencv/e6edf3" height="16" valign="middle" /> **Actualmente investigando:** Computer Vision y Machine Learning (Python/Data Science) para mi tesis de maestría enfocada en rehabilitación médica.
+* <img src="https://cdn.simpleicons.org/modelcontextprotocol/e6edf3" height="16" valign="middle" /> **Actualmente explorando:** Skills, MCPs (Model Context Protocol) y herramientas de código abierto para potenciar flujos de desarrollo con IA.
+* <img src="https://cdn.simpleicons.org/huggingface/e6edf3" height="16" valign="middle" /> **Mis intereses principales:** El desarrollo web moderno y la aplicación de Inteligencia Artificial para el impacto en la salud.
+* <img src="https://cdn.simpleicons.org/discord/e6edf3" height="16" valign="middle" /> **Pregúntame sobre:** Desarrollo Full-Stack, Python, y estructuración de proyectos de software.
+* <img src="https://cdn.simpleicons.org/gmail/e6edf3" height="16" valign="middle" /> **Cómo contactarme:** dvlsantanaes@gmail.com
+* <img src="https://cdn.simpleicons.org/steam/e6edf3" height="16" valign="middle" /> **Dato curioso:** Cuando no estoy programando, me encuentras en el gym, jugando ARC Raiders o Dead by Daylight, o dando el rol por Mazatlán.
 
 ---
 
