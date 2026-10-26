@@ -37,13 +37,16 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" bgcolor="161b22">
-      <img src="https://github-profile-trophy.vercel.app/?username=Dvl-Sant&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="100%" />
+    <td colspan="2" align="center" bgcolor="0d1117">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dvl-Sant&theme=github_dark" alt="Profile Details" width="100%" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" bgcolor="161b22">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dvl-Sant&hide_border=true&bg_color=00000000&color=e6edf3&line=3fb950&point=e6edf3&area=true&area_color=21262d" alt="Activity Graph" width="100%" />
+    <td width="50%" align="center" bgcolor="0d1117">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dvl-Sant&theme=github_dark" alt="Repos per Language" width="100%" />
+    </td>
+    <td width="50%" align="center" bgcolor="0d1117">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dvl-Sant&theme=github_dark" alt="Stats" width="100%" />
     </td>
   </tr>
 </table>
