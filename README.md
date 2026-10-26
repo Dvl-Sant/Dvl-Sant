@@ -17,40 +17,36 @@
 
 ---
 
-<div align="center">
-  <!-- Profile Views -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dvl-Sant&label=Profile+views&color=blueviolet&style=flat" alt="Profile views" />
-  
-  <br/><br/>
-  
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dvl-Sant/Dvl-Sant/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dvl-Sant/Dvl-Sant/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dvl-Sant/Dvl-Sant/output/github-contribution-grid-snake.svg">
-  </picture>
+</p>
 
-  <br/><br/>
-
-  <!-- Barrita verde -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" alt="green bar" width="100%" />
-</div>
-
-<br/>
-
-<!--- stats (start) -->
-<table align="center" width="100%">
-<tr border="none">
-<td width="50%" align="center">
-  <img title="🔥 Get streak stats for your profile at streak-stats.demolab.com" alt="Mark streak" src="https://streak-stats.demolab.com/?user=Dvl-Sant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvl-Sant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-</td>
-</tr>
+<!-- Bento Grid -->
+<table width="100%" cellspacing="6" cellpadding="10">
+  <tr>
+    <td width="50%" align="center" bgcolor="161b22">
+      <img src="https://github-readme-stats.vercel.app/api?username=Dvl-Sant&show_icons=true&hide_border=true&bg_color=00000000&title_color=3fb950&text_color=e6edf3&icon_color=3fb950" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" bgcolor="161b22">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvl-Sant&layout=donut&hide_border=true&bg_color=00000000&title_color=3fb950&text_color=e6edf3&langs_count=8" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" bgcolor="161b22">
+      <img src="https://streak-stats.demolab.com?user=Dvl-Sant&hide_border=true&background=00000000&currStreakLabel=3fb950&sideLabels=e6edf3&dates=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&currStreakStreak=3fb950" alt="Streak Stats" width="70%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" bgcolor="161b22">
+      <img src="https://github-profile-trophy.vercel.app/?username=Dvl-Sant&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" bgcolor="161b22">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dvl-Sant&hide_border=true&bg_color=00000000&color=e6edf3&line=3fb950&point=e6edf3&area=true&area_color=21262d" alt="Activity Graph" width="100%" />
+    </td>
+  </tr>
 </table>
-<!--- stats (end) -->
 
 <br/>
 
@@ -119,8 +115,6 @@
 </p>
 
 <br/>
-
-
 
 <!--
 **Dvl-Sant/Dvl-Sant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
