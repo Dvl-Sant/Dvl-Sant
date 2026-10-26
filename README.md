@@ -91,6 +91,7 @@ Acceso concedido ✔ — pregúntame sobre Full-Stack, Python y arquitectura
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dvl-Sant&theme=react-dark&hide_border=true&bg_color=1e2127&color=58E06F&line=58E06F&point=e06c75&area=true&area_color=282c34" alt="Activity Graph" width="100%" />
 </p>
 
+<!-- SNAKE: reactivar cuando exista el workflow .github/workflows/snake.yml
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dvl-Sant/Dvl-Sant/output/github-contribution-grid-snake-dark.svg">
@@ -98,6 +99,7 @@ Acceso concedido ✔ — pregúntame sobre Full-Stack, Python y arquitectura
     <img alt="snake animation" src="https://raw.githubusercontent.com/Dvl-Sant/Dvl-Sant/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+-->
 
 ## `jose@dvl-sant:~$ cat contacto.sh`
 
