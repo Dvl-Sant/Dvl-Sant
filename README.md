@@ -50,6 +50,15 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dvl-Sant&theme=github_dark" alt="Stats" width="100%" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" bgcolor="0d1117">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dvl-Sant/Dvl-Sant/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dvl-Sant/Dvl-Sant/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dvl-Sant/Dvl-Sant/output/github-contribution-grid-snake.svg" width="100%" />
+      </picture>
+    </td>
+  </tr>
 </table>
 
 <br/>
